@@ -11,9 +11,9 @@
 | Proje | Açıklama | Canlı Link |
 |-------|----------|------------|
 | 🛒 **Leblebi-store** | Çok dilli, temalı e-ticaret arayüzü (React) | [Link](https://leblebi-store.netlify.app/) |
-| 📈 **Market-pulse** | Kripto & döviz dashboard (CoinGecko API) | [Link](https://vision-planner.netlify.app/) |
+| 📈 **Market-pulse** | Kripto & döviz dashboard (CoinGecko API) | [Link](https://my-market-pulse.netlify.app/) |
 | 🌤️ **Meteo-vision** | Hava durumu uygulaması (React 19, OpenWeather API) | [Link](https://meteo-vision.netlify.app/) |
-| ✅ **Vision-planner** | Vanilla JS ile yapılacaklar listesi (localStorage) | [Link](https://my-market-pulse.netlify.app/) |
+| ✅ **Vision-planner** | Vanilla JS ile yapılacaklar listesi (localStorage) | [Link](https://vision-planner.netlify.app/) |
 
 ---
 
