@@ -10,10 +10,10 @@
 
 | Proje | Açıklama | Canlı Link |
 |-------|----------|------------|
-| 🛒 **Leblebi Store** | Çok dilli, temalı e-ticaret arayüzü (React) | [Link](https://menzil-orazdurdyyew-mini-shop-procekt.netlify.app/) |
-| 📈 **MarketPulse Pro** | Kripto & döviz dashboard (CoinGecko API) | [Link](https://menzil-orazdurdyyew-cripto-project.netlify.app/) |
-| 🌤️ **MeteoVision** | Hava durumu uygulaması (React 19, OpenWeather API) | [Link](https://menzil-orazdurdyyew-weather-procekt.netlify.app/) |
-| ✅ **Vision Planner** | Vanilla JS ile yapılacaklar listesi (localStorage) | [Link](https://menzil-orazdurdyyew-todo-list-procekt.netlify.app/) |
+| 🛒 **Leblebi-store** | Çok dilli, temalı e-ticaret arayüzü (React) | [Link](https://leblebi-store.netlify.app/) |
+| 📈 **Market-pulse** | Kripto & döviz dashboard (CoinGecko API) | [Link](https://vision-planner.netlify.app/) |
+| 🌤️ **Meteo-vision** | Hava durumu uygulaması (React 19, OpenWeather API) | [Link](https://meteo-vision.netlify.app/) |
+| ✅ **Vision-planner** | Vanilla JS ile yapılacaklar listesi (localStorage) | [Link](https://my-market-pulse.netlify.app/) |
 
 ---
 
